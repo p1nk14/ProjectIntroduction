@@ -1,0 +1,15 @@
+1. Get clone from 
+https://github.com/p1nk14/ProjectIntroduction
+
+id: p1nk14
+
+2. Add File & Commit
+
+3. Create Branch
+
+4. Merge to Branch
+
+5. Check file Merge 
+
+6. Delete Repository
+
